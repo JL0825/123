@@ -12,8 +12,4 @@ API
    :toctree: generated
 
    lumache
-内容
-autosummary
-   :toctree: generated
 
-   lumache
