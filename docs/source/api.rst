@@ -7,9 +7,3 @@ API
    lumache
 标题
 
-
-.. autosummary::
-   :toctree: generated
-
-   lumache
-
