@@ -6,10 +6,14 @@ API
 
    lumache
 标题
-===
+
 
 .. autosummary::
    :toctree: generated
 
    lumache
 内容
+autosummary
+   :toctree: generated
+
+   lumache
